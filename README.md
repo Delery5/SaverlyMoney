@@ -12,4 +12,4 @@ We **never** move money or make transactions on a user's behalf.
 To help users budget intelligently and view their financial health in one dashboard.
 
 ### Contact
-support@saverlymoney.com (or your email)
+saverlymoney@gmail.com
